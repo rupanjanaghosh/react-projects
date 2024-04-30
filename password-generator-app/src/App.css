@@ -1,0 +1,17 @@
+.image{
+  /* Set the background image */
+  background-image: url(https://cdn2.vectorstock.com/i/1000x1000/62/06/refresh-icon-vector-23766206.jpg);
+  /* Set the size of the background image */
+  background-size: cover;
+  /* Set the width and height of the button */
+  width: 200px;
+  height: 50px;
+  /* Center the text vertically and horizontally */
+  text-align: center;
+  line-height: 50px; /* Should match the height of the button */
+  /* Other button styles */
+  border: none;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
